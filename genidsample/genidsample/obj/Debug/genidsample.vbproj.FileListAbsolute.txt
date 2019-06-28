@@ -1,0 +1,14 @@
+C:\Users\MOHAMMAD\source\repos\genidsample\genidsample\bin\Debug\genidsample.exe.config
+C:\Users\MOHAMMAD\source\repos\genidsample\genidsample\bin\Debug\genidsample.exe
+C:\Users\MOHAMMAD\source\repos\genidsample\genidsample\bin\Debug\genidsample.pdb
+C:\Users\MOHAMMAD\source\repos\genidsample\genidsample\bin\Debug\genidsample.xml
+C:\Users\MOHAMMAD\source\repos\genidsample\genidsample\obj\Debug\genidsample.vbprojAssemblyReference.cache
+C:\Users\MOHAMMAD\source\repos\genidsample\genidsample\obj\Debug\genidsample.Form1.resources
+C:\Users\MOHAMMAD\source\repos\genidsample\genidsample\obj\Debug\genidsample.Resources.resources
+C:\Users\MOHAMMAD\source\repos\genidsample\genidsample\obj\Debug\genidsample.vbproj.GenerateResource.cache
+C:\Users\MOHAMMAD\source\repos\genidsample\genidsample\obj\Debug\genidsample.vbproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD\source\repos\genidsample\genidsample\obj\Debug\genidsample.vbproj.CopyComplete
+C:\Users\MOHAMMAD\source\repos\genidsample\genidsample\obj\Debug\genidsample.exe
+C:\Users\MOHAMMAD\source\repos\genidsample\genidsample\obj\Debug\genidsample.xml
+C:\Users\MOHAMMAD\source\repos\genidsample\genidsample\obj\Debug\genidsample.pdb
+C:\Users\MOHAMMAD\source\repos\genidsample\genidsample\bin\Debug\mtmsoftsec1.dll

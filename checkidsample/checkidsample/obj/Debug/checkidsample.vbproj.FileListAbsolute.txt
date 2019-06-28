@@ -1,0 +1,14 @@
+C:\Users\MOHAMMAD\source\repos\checkidsample\checkidsample\bin\Debug\checkidsample.exe.config
+C:\Users\MOHAMMAD\source\repos\checkidsample\checkidsample\bin\Debug\checkidsample.exe
+C:\Users\MOHAMMAD\source\repos\checkidsample\checkidsample\bin\Debug\checkidsample.pdb
+C:\Users\MOHAMMAD\source\repos\checkidsample\checkidsample\bin\Debug\checkidsample.xml
+C:\Users\MOHAMMAD\source\repos\checkidsample\checkidsample\bin\Debug\mtnsoftsec.dll
+C:\Users\MOHAMMAD\source\repos\checkidsample\checkidsample\obj\Debug\checkidsample.vbprojAssemblyReference.cache
+C:\Users\MOHAMMAD\source\repos\checkidsample\checkidsample\obj\Debug\checkidsample.Form1.resources
+C:\Users\MOHAMMAD\source\repos\checkidsample\checkidsample\obj\Debug\checkidsample.Resources.resources
+C:\Users\MOHAMMAD\source\repos\checkidsample\checkidsample\obj\Debug\checkidsample.vbproj.GenerateResource.cache
+C:\Users\MOHAMMAD\source\repos\checkidsample\checkidsample\obj\Debug\checkidsample.vbproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD\source\repos\checkidsample\checkidsample\obj\Debug\checkidsample.vbproj.CopyComplete
+C:\Users\MOHAMMAD\source\repos\checkidsample\checkidsample\obj\Debug\checkidsample.exe
+C:\Users\MOHAMMAD\source\repos\checkidsample\checkidsample\obj\Debug\checkidsample.xml
+C:\Users\MOHAMMAD\source\repos\checkidsample\checkidsample\obj\Debug\checkidsample.pdb
